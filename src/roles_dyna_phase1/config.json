@@ -1,0 +1,15 @@
+{
+  "version": "v_1_0",
+  "timezone": "America/New_York",
+  "paths": {
+    "raw_input": "/workspaces/Role_Dyna_2/Input/Raw_input_07012025.xlsx",
+    "translation_master": "/workspaces/Role_Dyna_2/Input/Var_Trns_Mstr.xlsx",
+    "outputs_dir": "/workspaces/Role_Dyna_2/Output",
+    "logs_dir": "/workspaces/Role_Dyna_2/Logs"
+  },
+  "options": {
+    "fgp_filter": "",
+    "errors_only": false,
+    "override_report_labels": true
+  }
+}

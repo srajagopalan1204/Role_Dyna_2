@@ -1,0 +1,46 @@
+[2025-08-15 11:35:42] Run start
+[2025-08-15 11:35:42] Version: v_1_0
+[2025-08-15 11:35:42] Raw: /workspaces/Role_Dyna_2/Input/Raw_input_07012025.xlsx
+[2025-08-15 11:35:42] Vars: /workspaces/Role_Dyna_2/Input/Var_Trns_Mstr.xlsx
+[2025-08-15 11:35:42] FGP filter: ''
+[2025-08-15 12:13:21] Run start
+[2025-08-15 12:13:21] Version: v_1_0
+[2025-08-15 12:13:21] Raw: /workspaces/Role_Dyna_2/Input/Raw_input_07012025.xlsx
+[2025-08-15 12:13:21] Vars: /workspaces/Role_Dyna_2/Input/Var_Trns_Mstr.xlsx
+[2025-08-15 12:13:21] FGP filter: ''
+[2025-08-15 12:13:47] Run start
+[2025-08-15 12:13:47] Version: v_1_0
+[2025-08-15 12:13:47] Raw: /workspaces/Role_Dyna_2/Input/Raw_input_07012025.xlsx
+[2025-08-15 12:13:47] Vars: /workspaces/Role_Dyna_2/Input/Var_Trns_Mstr.xlsx
+[2025-08-15 12:13:47] FGP filter: ''
+[2025-08-15 12:30:21] Run start
+[2025-08-15 12:30:21] Version: v_1_1
+[2025-08-15 12:30:21] Raw: /workspaces/Role_Dyna_2/Input/Raw_input_07012025.xlsx
+[2025-08-15 12:30:21] Vars: /workspaces/Role_Dyna_2/Input/Var_Trns_Mstr.xlsx
+[2025-08-15 12:30:21] FGP filter: ''
+[2025-08-15 12:50:42] Run start
+[2025-08-15 12:50:42] Version: v_1_1
+[2025-08-15 12:50:42] Raw: /workspaces/Role_Dyna_2/Input/Raw_input_07012025.xlsx
+[2025-08-15 12:50:42] Vars: /workspaces/Role_Dyna_2/Input/Var_Trns_Mstr.xlsx
+[2025-08-15 12:50:42] FGP filter: ''
+[2025-08-15 13:28:01] Run start
+[2025-08-15 13:28:01] Version: v_1_3
+[2025-08-15 13:28:01] Raw: /workspaces/Role_Dyna_2/Input/Raw_input_07012025.xlsx
+[2025-08-15 13:28:01] Vars: /workspaces/Role_Dyna_2/Input/Var_Trns_Mstr.xlsx
+[2025-08-15 13:28:01] FGP filter: ''
+[2025-08-15 13:33:33] Run start
+[2025-08-15 13:33:33] Version: v_1_3b
+[2025-08-15 13:33:33] Raw: /workspaces/Role_Dyna_2/Input/Raw_input_07012025.xlsx
+[2025-08-15 13:33:33] Vars: /workspaces/Role_Dyna_2/Input/Var_Trns_Mstr.xlsx
+[2025-08-15 13:33:33] FGP filter: ''
+[2025-08-15 14:11:49] Run start
+[2025-08-15 14:11:49] Version: v_1_4_2019
+[2025-08-15 14:11:49] Raw: /workspaces/Role_Dyna_2/Input/Raw_input_07012025.xlsx
+[2025-08-15 14:11:49] Vars: /workspaces/Role_Dyna_2/Input/Var_Trns_Mstr.xlsx
+[2025-08-15 14:11:49] FGP filter: ''
+[2025-08-15 14:25:06] Run start
+[2025-08-15 14:25:06] Version: v_1_4_2019a
+[2025-08-15 14:25:06] Raw: /workspaces/Role_Dyna_2/Input/Raw_input_07012025.xlsx
+[2025-08-15 14:25:06] Vars: /workspaces/Role_Dyna_2/Input/Var_Trns_Mstr.xlsx
+[2025-08-15 14:25:06] FGP filter: ''
+[2025-08-15 14:25:06] Summary sort: descending
